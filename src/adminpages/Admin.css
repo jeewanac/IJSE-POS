@@ -1,0 +1,64 @@
+.register-form,
+.login-form{
+    max-width: 350px;
+    margin: 0 auto;
+    padding: 20px;
+    margin-top: 40px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0.1, 0.1, 0.1, 0.1);
+}
+
+.category-table{
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+}
+
+.form-control{
+    width: 90%;
+    margin: 0 auto;
+    border: 1px solid;
+    text-align: center;
+    box-shadow: 0 0 10px rgba(0.1, 0.1, 0.1, 0.1);
+}
+
+.form-container {
+    max-width: 700px;
+    margin: 0 auto;
+    margin-top: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+}
+
+.form-labal{
+    font-family: sans-serif;
+}
+
+.confirm-btn{
+    background-color: #5968ec;
+    color: white;
+    border: none;
+}
+
+.update-btn{
+    background-color: #3cac4e;
+    color: white;
+    border: none;
+}
+
+.delete-btn{
+    background-color: #f10707;
+    color: white;
+    border: none;
+}
+
+.confirm-btn,
+.update-btn,
+.delete-btn {
+    padding: 6px 12px;
+    margin-right: 5px;
+    cursor: pointer;
+}
